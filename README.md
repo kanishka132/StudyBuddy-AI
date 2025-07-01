@@ -36,3 +36,16 @@ We noticed how much time is wasted creating practice materials manually. We thou
 * **File Processing on Render**: While Render made backend deployment easy, handling large files (especially PDFs) and ensuring consistent extraction across deployments took optimization.
 * **Frontend / Backend Sync**: Keeping Netlify (frontend) and Render (backend) deployments aligned — especially for API URLs and environment variables — introduced some friction during testing.
 
+---
+
+## Project Screenshots
+
+### Home Page
+![Home](images/home.png)
+
+### Workspace
+![Workspace](images/workspace.png)
+
+### Summary
+![Summary](images/summary.png)
+
