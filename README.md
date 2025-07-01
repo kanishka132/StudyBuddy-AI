@@ -46,6 +46,6 @@ We noticed how much time is wasted creating practice materials manually. We thou
 ### Workspace
 ![Workspace](images/workspace.png)
 
-### Summary
-![Summary](images/summary.png)
+### Library
+![Summary](images/library1.png)
 
