@@ -38,23 +38,7 @@ We noticed how much time is wasted creating practice materials manually. We thou
 
 ---
 
-## Project Screenshots
-
-### Home Page
-(images/home.png)
-
-### Materials
-(images/3.png)
-
-### Workspace
-(images/workspace.png)
-
-### Learn
-(images/library1.png)
-(images/quiz.png)
-(images/flashcards.png)
-
-### Planner
-(images/calendar.png)
+## Project Demo
+![Project Demo](demo/Studybuddyapprecording-ezgif.com-video-to-gif-converter.gif)
 
 
