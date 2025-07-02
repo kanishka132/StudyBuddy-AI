@@ -41,11 +41,20 @@ We noticed how much time is wasted creating practice materials manually. We thou
 ## Project Screenshots
 
 ### Home Page
-![Home](images/home.png)
+(images/home.png)
+
+### Materials
+(images/3.png)
 
 ### Workspace
-![Workspace](images/workspace.png)
+(images/workspace.png)
 
-### Library
-![Summary](images/library1.png)
+### Learn
+(images/library1.png)
+(images/quiz.png)
+(images/flashcards.png)
+
+### Planner
+(images/calendar.png)
+
 
